@@ -8,7 +8,7 @@ gs.js is a tool that looks for global javascript variables that you have defined
 
 Be sure to grab a phantomjs executable [here](http://phantomjs.org/download.html).
 
-Download the scripts here LIEN.
+Download the scripts [here](https://github.com/nicompte/gs.js/archive/master.zip).
 
 And run the cli script :
 
